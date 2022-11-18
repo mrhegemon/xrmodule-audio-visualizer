@@ -1,14 +1,10 @@
-# Music Visualiser
+# XRModule Music Visualiser
 
-![audio-visualizer made by Santosh Arron](https://miro.medium.com/max/2000/1*CfnrtLr2KoTDs_r7afQ1gQ.png)
+![image](https://user-images.githubusercontent.com/5104160/202767015-8d5f5bee-fe06-40fa-9d6b-b3ef245a8e49.png)
 
 ## Documentation
 
-In an attempt to learn THREE.js — the 3D rendering WebGL framework and WebAudio API, I made something that visualises the music in a very simple way. This article documents the whole process.
-Final thing first:
-
-
-(Just use a .mp3 / .mp4 / .wav file to see it work. If you are out, you can use this)
+use a .mp3 / .mp4 / .wav file to see it work. If you are out, you can use this)
 
 
 ## [Live demo](https://santosharron.github.io/audio-visualizer-three-js/)
@@ -16,3 +12,6 @@ Final thing first:
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+Inspired by
+antosharron/audio-visualizer-three-js
